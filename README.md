@@ -1,11 +1,9 @@
 ![Jeux des paires](http://troussecreation.lapresse.ca/htdocs/data/img/interactions/jeux-de-memoire.gif)
 
-# Groupe 4
-Andréa  / Adeline / Maxime
-#
 
 # Jeu des paires 
 
+1 mois de formation
 
 ## Règles
 * L'espace de jeu est composé de cartes retournées face cachées. Le joueur retourne 2 cartes. Si elles sont identiques alors elles restent visibles, sinon elles reviennent en face cachée.
